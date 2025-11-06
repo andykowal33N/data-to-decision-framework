@@ -1,0 +1,10 @@
+# Data
+
+This folder contains example or synthetic datasets used to illustrate each stage of the Data-to-Decision Framework.
+
+Include small, de-identified samples that show:
+- Raw unstructured text (collection)
+- Extracted entities (extraction)
+- Enriched records (analysis-ready format)
+
+(No sensitive or proprietary data.)
